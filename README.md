@@ -1,13 +1,3 @@
-# Tiktok-
-Tiktok frontend + backend
-
-
-
-![tiktok1](tiktok1.png)
-
-
-
-
-
-
-![tiktok2](tiktok2.png)
+# TikTak
+Tiktok frontend + backend <br>
+(This in Private use for my class)
